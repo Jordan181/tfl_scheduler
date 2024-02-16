@@ -1,12 +1,6 @@
 # Overview
 
-This is a flask app using apscheduler for shceduling and SQLAlchemy with PostgreSQL for the database.
-
-I spent approximately 5 hours on the task.
-
-Technologies I had to learn:
-    - apscheduler was a completely new tool for me
-    - flask - had not used flask in well over a year so had to refresh
+Flask web app for shceduling calls to the TFL disruptions endpoint and storing the result in a database, using apscheduler for shceduling and SQLAlchemy with PostgreSQL backend.
 
 ## API:
 
