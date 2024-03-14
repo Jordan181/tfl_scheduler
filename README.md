@@ -1,6 +1,6 @@
 # Overview
 
-Flask web app for shceduling calls to the TFL disruptions endpoint and storing the result in a database, using apscheduler for shceduling and SQLAlchemy with PostgreSQL backend.
+Flask web app for scheduling calls to the TFL disruptions endpoint and storing the result in a database, using apscheduler for shceduling and SQLAlchemy with PostgreSQL backend.
 
 ## API:
 
